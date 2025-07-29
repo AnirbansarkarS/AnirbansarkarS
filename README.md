@@ -1,7 +1,9 @@
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 <h1 align="center">Hi 👋, I'm Anirban Sarkar</h1>
 <h3 align="center">Aspiring Software Developer | AI Enthusiast | Quantum Dreamer</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 
 - 🔭 I’m currently working on **Voice Emotion Detection**  
 - 🌱 I’m learning **Web Development, FastAPI, AI, and Quantum Computing**
