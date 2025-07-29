@@ -21,6 +21,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
+![snake gif](https://github.com/AnirbanSarkarS/AnirbanSarkarS/blob/output/github-contribution-grid-snake.svg)
+
 
 ### 📊 GitHub Stats:
 ![Anirban's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnirbanSarkarS&show_icons=true&theme=radical)
