@@ -4,11 +4,10 @@
 <h3 align="center">Aspiring Software Developer | AI Enthusiast | Quantum Dreamer</h3>
 
 
-
-- 🔭 I’m currently working on **Voice Emotion Detection**  
-- 🌱 I’m learning **Web Development, FastAPI, AI, and Quantum Computing**
+- 🔭 I love to learn and research ...deeply... 
+- 🌱 I’m learning **Web Development, AI, and Quantum Computing**
 - 👯 I’m looking to collaborate on **AI/ML + Web Projects**
-- 💬 Ask me about **C++, DSA, Python, FastAPI, or GitHub**
+- 💬 Ask me about **C++, DSA, Python, FastAPI, Django or GitHub or ML**
 - 📫 How to reach me: **sanirban2006@gmail.com**
 - ⚡ Fun fact: I love decoding nature with physics ⚛️
 
@@ -53,5 +52,6 @@
 ---
 
 ### 🧠 Quotes That Drive Me:
-> “Reality is nothing but a wave function waiting to collapse.”  
+> “|ψ⟩ = α|0⟩ + β|1⟩.(SEE IT , AND UNDERSTAND)”
+> "I have not failed I have just found 10000 ways ,that would not work"
 > — Anirban, inspired by quantum mechanics 💡
