@@ -54,7 +54,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnirbanSarkarS&layout=compact&theme=radical)
 
 ### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=AnirbanSarkarS&theme=onedark&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=AnirbanSarkarS&theme=onedark&margin-w=15&no-bg=true)
 
 ---
 
