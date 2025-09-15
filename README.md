@@ -48,7 +48,7 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![PDF Parsers](https://img.shields.io/badge/PDF%20Parsing-Python-informational?style=for-the-badge)
 
-
+ <img src="https://skillicons.dev/icons?i=c,cpp,js,react,nodejs,express,mongodb,python,flask,firebase,git,figma,java,mysql" />
 ### 📊 GitHub Stats:
 ![Anirban's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnirbanSarkarS&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnirbanSarkarS&layout=compact&theme=radical)
