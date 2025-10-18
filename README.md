@@ -29,12 +29,21 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=AnirbansarkarS&theme=solarized-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnirbansarkarS&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=AnirbanSarkarS)
-
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AnirbansarkarS&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🧠 Quotes That Drive Me:
 > “|ψ⟩ = α|0⟩ + β|1⟩.(SEE IT , AND UNDERSTAND)”
 > "I have not failed I have just found 10000 ways ,that would not work"
 > — Anirban, inspired by quantum mechanics 💡
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AnirbansarkarS&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AnirbansarkarS&icon=5&color=6)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anirbansarkarq) 
+
+
