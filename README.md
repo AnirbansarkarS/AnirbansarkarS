@@ -24,9 +24,10 @@
 
 
 
-### 📊 GitHub Stats:
-![Anirban's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnirbanSarkarS&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnirbanSarkarS&layout=compact&theme=radical)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AnirbansarkarS&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AnirbansarkarS&theme=solarized-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnirbansarkarS&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=AnirbanSarkarS)
