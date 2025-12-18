@@ -5,7 +5,7 @@
 
 
 - 🔭 I love to learn and research ...deeply... 
-- 🌱 I’m learning ** AI, and Quantum Computing**
+- 🌱 I’m learning **AI, and Quantum Computing**
 - 👯 I’m looking to collaborate on **AI/ML + Web Projects**
 - 💬 Ask me about **C++, DSA, Python, FastAPI, Django or GitHub or ML**
 - 📫 How to reach me: **sanirban2006@gmail.com**
