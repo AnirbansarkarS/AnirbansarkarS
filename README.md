@@ -58,7 +58,14 @@
 |----------|--------------|
 | **Hosting Platforms** | ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) |
 | **DevOps Tools** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) |
-
+## 🔮 Quantum Computing & Quantum Machine Learning
+| Category | Technologies |
+|----------|--------------|
+| **Quantum Frameworks** | ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white) ![Cirq](https://img.shields.io/badge/Cirq-%23F05236.svg?style=for-the-badge&logo=google&logoColor=white) ![PennyLane](https://img.shields.io/badge/PennyLane-%237D4698.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMjRMMCAxMkgyNEwxMiAyNFoiIGZpbGw9IiM3RDQ2OTgiLz48L3N2Zz4=&logoColor=white) ![Strawberry Fields](https://img.shields.io/badge/Strawberry%20Fields-%23008C8C.svg?style=for-the-badge&logo=xcode&logoColor=white) |
+| **Quantum-Hybrid ML** | ![TorchQuantum](https://img.shields.io/badge/TorchQuantum-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow Quantum](https://img.shields.io/badge/TensorFlow%20Quantum-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pennylane + PyTorch](https://img.shields.io/badge/PennyLane%20+%20PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) |
+| **Quantum Simulators** | ![IBM Quantum Lab](https://img.shields.io/badge/IBM%20Quantum%20Lab-%23054ADA.svg?style=for-the-badge&logo=ibm&logoColor=white) ![AWS Braket](https://img.shields.io/badge/AWS%20Braket-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white) ![Google Quantum AI](https://img.shields.io/badge/Google%20Quantum%20AI-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white) |
+| **Libraries & Tools** | ![QuTiP](https://img.shields.io/badge/QuTiP-%23172B4D.svg?style=for-the-badge&logo=python&logoColor=white) ![Ocean SDK (D-Wave)](https://img.shields.io/badge/D--Wave%20Ocean-%23006699.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMTJMMCAwSDI0TDEyIDEyWiIgZmlsbD0iIzAwNjY5OSIvPjwvc3ZnPg==&logoColor=white) ![Q# (Microsoft)](https://img.shields.io/badge/Q%23-%235E5E5E.svg?style=for-the-badge&logo=microsoft&logoColor=white) |
+| **Visualization & Dev** | ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 ### 🎮 Specialized Domains
 | Category | Technologies |
 |----------|--------------|
