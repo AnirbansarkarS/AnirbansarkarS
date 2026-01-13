@@ -4,7 +4,6 @@
 <h3 align="center">Aspiring Software Developer | AI Enthusiast | Quantum Dreamer</h3>
 
 
-
 - 🔭 I love to learn and research ...deeply... 
 - 🌱 I’m learning **AI, and Quantum Computing**
 - 👯 I’m looking to collaborate on **AI/ML + Web Projects**
