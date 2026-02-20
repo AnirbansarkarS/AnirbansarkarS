@@ -86,10 +86,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=AnirbansarkarS&theme=solarized-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnirbansarkarS&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnirbansarkarS&theme=onedark&row=2&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 Achievements
+
+| Metric | Value |
+|--------|-------|
+| 📁 Public Repos | ![Repos](https://img.shields.io/github/followers/AnirbansarkarS?style=social) |
+| ⭐ Total Stars | ![Stars](https://img.shields.io/github/stars/AnirbansarkarS?style=social) |
+| 👥 Followers | ![Followers](https://img.shields.io/github/followers/AnirbansarkarS?style=social) |
 
 </div>
 ### 🧠 Quotes That Drive Me:
