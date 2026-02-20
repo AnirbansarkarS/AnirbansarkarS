@@ -87,8 +87,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnirbansarkarS&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AnirbansarkarS&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnirbansarkarS&theme=onedark&row=2&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+</div>
 ### 🧠 Quotes That Drive Me:
 > “|ψ⟩ = α|0⟩ + β|1⟩.(SEE IT , AND UNDERSTAND)”
 > "I have not failed I have just found 10000 ways ,that would not work"
