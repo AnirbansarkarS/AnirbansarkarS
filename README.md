@@ -9,7 +9,7 @@
 - 💬 Ask me about **C++, DSA, Python, FastAPI, Django or GitHub or ML**
 - 📫 How to reach me: **sanirban2006@gmail.com**
 - ⚡ Fun fact: I love decoding nature with physics ⚛️
-- 
+
 ---
 
 
